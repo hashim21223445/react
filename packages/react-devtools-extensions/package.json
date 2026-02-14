@@ -60,13 +60,13 @@
     "rimraf": "^5.0.1",
     "source-map-js": "^0.6.2",
     "sourcemap-codec": "^1.4.8",
-    "style-loader": "^0.23.1",
+    "style-loader": "^3.0.0",
     "webpack": "^5.82.1",
     "webpack-cli": "^5.1.1",
     "webpack-dev-server": "^4.15.0",
     "workerize-loader": "^2.0.2"
   },
   "dependencies": {
-    "web-ext": "^4"
+    "web-ext": "^9.2.0"
   }
 }
